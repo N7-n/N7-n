@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<a href="https://github.com/N7-n/N7-n/">
+  <img src="https://komarev.com/ghpvc/?username=N7-n" alt="N7-n" />
+</a>
 <!--
 **N7-n/N7-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
