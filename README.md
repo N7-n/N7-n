@@ -2,7 +2,7 @@
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
- ______________________________________________________________
+<a> ________________________________________</a>
  <a href="https://github.com/N7-n/N7-n/">
   <img src="https://komarev.com/ghpvc/?username=N7-n" alt="N7-n" />
 </a>
