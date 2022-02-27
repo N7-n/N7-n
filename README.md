@@ -1,4 +1,5 @@
 <h1>Profile</h1>
+<h5>Hi there👋</h5>
 <h5>・<a href="https://www.resume.id/n7_n">RESUME</a> </h5>
 <h5>・<a href="https://n7-n.hatenablog.com">Blog</a> (Hatena Blog)</h5>
 <h1>
