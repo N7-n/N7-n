@@ -8,8 +8,10 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-<br>
- <a href="https://github.com/N7-n/N7-n/">
+  <h1></h1>
+ 
+  
+  <a href="https://github.com/N7-n/N7-n/">
   <img src="https://komarev.com/ghpvc/?username=N7-n" alt="N7-n" />
 </a>
   <a href="https://github.com/N7-n">
