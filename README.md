@@ -1,5 +1,5 @@
 <h1>Profile</h1><a href="https://github.com/anuraghazra/github-readme-stats">
-   <img  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5" /></a>
+   <img  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n7-n" /></a>
 <h3>Hi there👋</h3>
 
 <h5>・<a href="https://www.resume.id/n7_n">RESUME</a> </h5>
