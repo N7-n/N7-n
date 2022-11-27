@@ -1,10 +1,6 @@
 <h1>Profile</h1><a href="https://github.com/anuraghazra/github-readme-stats">
    <img  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n7-n" /></a>
 <h3>Hi there👋</h3>
-
-<h5>・<a href="https://www.resume.id/n7_n">RESUME</a> </h5>
-<h5>・<a href="https://n7-n.hatenablog.com">Blog</a> (Hatena Blog)</h5>
-
 <h1>
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
